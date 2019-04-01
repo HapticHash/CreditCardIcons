@@ -1,0 +1,11 @@
+body {
+    padding: 0em;
+}
+.bg { background-image: linear-gradient( 109.6deg,  #f2f2f2f2 11.2%, #ccc 100.2% ); }
+.wrapper{ width: 60% !important; margin-top: 7vw;}
+.group1 { margin: 0 auto; }
+.bottomRow {
+  background-image: linear-gradient( 109.6deg,  #232428 11.2%, #14161a 100.2% );
+  margin-top: 5vw !important;
+
+}
