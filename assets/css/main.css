@@ -3,8 +3,16 @@ body {
     padding: 0em;
     overflow: hidden !important;
     font-family: 'Roboto', sans-serif;
+    background-color: #d1d1d2;
+    background-image: linear-gradient(to bottom left, #d1d1d2, #f1f1f2);
+}
+.topimg{
+  width: 50%;
+  margin: 0 auto;
 }
 
-.title{
-  font-size: 10vw;   
+.bottom {
+    height: 30vh;
+    background-color: #28282d;
+    background-image: linear-gradient(to bottom left, #28282d, #1b1d22);
 }
