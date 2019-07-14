@@ -1,18 +1,32 @@
 
 body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
     padding: 0em;
-    overflow: hidden !important;
+    box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
     background-color: #d1d1d2;
     background-image: linear-gradient(to bottom left, #d1d1d2, #f1f1f2);
 }
-.topimg{
+.section {
+  flex: 1;
+}
+.topimg {
   width: 50%;
   margin: 0 auto;
 }
 
-.bottom {
-    height: 30vh;
+.footer {
+    height: auto;
     background-color: #28282d;
     background-image: linear-gradient(to bottom left, #28282d, #1b1d22);
+}
+.bot{
+  width: 80%;
+}
+.bot.columns{
+  text-align: center;
+  margin: 1em auto 0;
+  background-color: bisque;
 }
