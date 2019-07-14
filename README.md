@@ -14,7 +14,7 @@ Here is a creative alternate of using payment card icons in your new website.
 
 You can get the code by simply cloning this repository on your local machine by just writing following in your command prompt/terminal. 
 ```
-git clone https://github.com/harshitks2203/CreditCardIcons.git
+git clone https://github.com/HapticHash/CreditCardIcons.git
 ```
 P.S. Make sure you have ``` git bash``` installed in your local machine.
 
