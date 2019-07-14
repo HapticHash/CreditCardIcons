@@ -1,4 +1,6 @@
-
+*{
+  overflow: hidden !important;
+}
 body {
     display: flex;
     min-height: 100vh;
@@ -14,7 +16,7 @@ body {
 }
 .topimg {
   width: 50%;
-  margin: 0 auto;
+  margin: 1vh auto;
 }
 
 .footer {
@@ -23,10 +25,13 @@ body {
     background-image: linear-gradient(to bottom left, #28282d, #1b1d22);
 }
 .bot{
-  width: 80%;
+  width: 70%;
 }
 .bot.columns{
   text-align: center;
   margin: 1em auto 0;
-  background-color: bisque;
+}
+.botimg {
+  width: 80%;
+  margin: 0 auto;
 }
